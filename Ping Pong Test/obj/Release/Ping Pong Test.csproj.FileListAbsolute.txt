@@ -1,0 +1,6 @@
+z:\my documents\visual studio 2017\Projects\Ping Pong Test\Ping Pong Test\bin\Release\Ping Pong Test.exe.config
+z:\my documents\visual studio 2017\Projects\Ping Pong Test\Ping Pong Test\bin\Release\Ping Pong Test.exe
+z:\my documents\visual studio 2017\Projects\Ping Pong Test\Ping Pong Test\bin\Release\Ping Pong Test.pdb
+z:\my documents\visual studio 2017\Projects\Ping Pong Test\Ping Pong Test\obj\Release\Ping Pong Test.csprojResolveAssemblyReference.cache
+z:\my documents\visual studio 2017\Projects\Ping Pong Test\Ping Pong Test\obj\Release\Ping Pong Test.exe
+z:\my documents\visual studio 2017\Projects\Ping Pong Test\Ping Pong Test\obj\Release\Ping Pong Test.pdb
